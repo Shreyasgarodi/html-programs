@@ -1,0 +1,6 @@
+HTML images are defined with the <img> tag.
+
+The source file (src), alternative text (alt), width, and height are provided as attributes
+
+example:
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"  width="105" height="142">
