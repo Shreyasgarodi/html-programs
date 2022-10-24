@@ -1,5 +1,15 @@
 # *HTML-PROGRAMS*
 
+
+<div id="header" align="center">
+  <img src="https://www.nobledesktop.com/image/classExamples/html-intro/html-intro.gif" width="1000"  height="600"/>
+</div>
+
+
+
+
+
+
 # *What is HTML?*
 > *```HTML``` stands for ```Hyper Text Markup Language```*
 
