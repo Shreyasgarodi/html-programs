@@ -2,3 +2,8 @@ HTML links are defined with the <a> tag:
 
 Example
 <a href="https://www.google.com">This is a link</a>
+
+
+The link's destination is specified in the href attribute. 
+
+Attributes are used to provide additional information about HTML elements.
