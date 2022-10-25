@@ -1,0 +1,6 @@
+
+HTML paragraphs are defined with the <p> tag:
+
+Example
+<p>This is a paragraph.</p>
+<p>This is another paragraph.</p>
