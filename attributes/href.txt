@@ -1,0 +1,4 @@
+The <a> tag defines a hyperlink. The href attribute specifies the URL of the page the link goes to:
+
+Example
+<a href="https://www.google.com">Visit google</a>
