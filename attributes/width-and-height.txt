@@ -1,0 +1,4 @@
+The <img> tag should also contain the width and height attributes, which specify the width and height of the image (in pixels):
+
+Example
+<img src="google.jpg" width="500" height="600">
