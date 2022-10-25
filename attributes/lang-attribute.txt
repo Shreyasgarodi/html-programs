@@ -8,3 +8,15 @@ The following example specifies English as the language:
 ...
 </body>
 </html>
+
+
+Country codes can also be added to the language code in the lang attribute. So, the first two characters define the language of the HTML page, and the last two characters define the country.
+
+The following example specifies English as the language and United States as the country:
+
+<!DOCTYPE html>
+<html lang="en-US">
+<body>
+...
+</body>
+</html>
