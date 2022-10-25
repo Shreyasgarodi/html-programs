@@ -1,0 +1,4 @@
+HTML links are defined with the <a> tag:
+
+Example
+<a href="https://www.google.com">This is a link</a>
