@@ -1,0 +1,6 @@
+The HTML style attribute is used to add styles to an element, such as color, font, size, and more.
+Setting the style of an HTML element, can be done with the style attribute.
+
+The HTML style attribute has the following syntax:
+
+<tagname style="property:value;">
